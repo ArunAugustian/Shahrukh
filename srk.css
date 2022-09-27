@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;1,100;1,300&family=Roboto:ital,wght@0,400;0,500;0,700;1,100;1,900&display=swap');
+.Main-Body{
+    background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(/srk/imagessrk/srkk.webp);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.slide{
+    height: 400px;
+}
+.card:hover{
+    transform: translateY(-30px);
+    cursor: pointer;
+}
+.iframee{
+    text-decoration: underline;
+    font-family: "poppins";
+    font-weight: 100;
+    font-size: 30px;
+   
+}
+.news{
+   
+    height: 650px;
+    margin-top: 10px;
+    
+}
+.col-lg-5 h5{
+    text-decoration: underline;
+    font-family: "poppins";
+    font-weight: 100;
+    font-size: 30px;
+}
+.video_jawan{
+    display: flex;
+    justify-content: space-around;
+
+  
+}
+.social_name{
+    font-size: 28px;
+}
+.srk_fb{
+    width: 100px;
+    height: 100px;
+
+}
+.footer{
+    height: 100px;
+    width: 100%;
+    
+}
+.filmography_div{
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
